@@ -2,5 +2,5 @@
 
 ## Screenshot
 
-![](SetupFlies.png)
+![](SetupFiles.png)
 ![](SetupOptions.png)
